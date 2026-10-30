@@ -1,2 +1,2 @@
-# bio-lab-notlar-m
-Lab ders notlarım ve Python denemelerim
+Ben biyoteknoloji öğrencisiyim.
+Burada lab ders notlarımı ve Python ile yaptığım küçük hesaplayıcıları topluyorum.
